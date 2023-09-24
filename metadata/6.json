@@ -1,0 +1,41 @@
+{
+    "name": "Bungalow Océan",
+    "address": "987 Boulevard des Lys, Quartier Al Fath, Tanger",
+    "description": "Comfy island home on Camano Island",
+    "image": "https://ipfs.io/ipfs/QmVXcZQF3XraZEQB1yxrFJt5mHBJhbCMy2ez2Bywd18k6g/6.jpg",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10.02
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        },
+        {
+            "trait_type": "Engineer",
+            "value": "D.Knuth"
+        },
+        {
+            "trait_type": "logo",
+            "value": "https://ipfs.io/ipfs/QmWgaHC5T2KV5Cr6YkVJ5WwpiWvXn6Y8CGVqmP6X7du4ZC/nft5.png"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Pavillon Jardin",
+    "address": "987 Avenue des Lys, Quartier Al Wifaq, Safi",
+    "description": "Comfy island home on Camano Island",
+    "image": "https://ipfs.io/ipfs/QmVXcZQF3XraZEQB1yxrFJt5mHBJhbCMy2ez2Bywd18k6g/24.jpg",
+    "id": "23",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2202
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        },
+        {
+            "trait_type": "Engineer",
+            "value": "H.IMANE"
+        },
+        {
+            "trait_type": "logo",
+            "value": "https://ipfs.io/ipfs/QmZPb4nHHubggfdGCZ5GVSy4S1X1spbBjxvAHo998kRv5S"
+        }
+    ]
+}

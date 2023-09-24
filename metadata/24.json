@@ -1,0 +1,41 @@
+{
+    "name": "Studio Lueur",
+    "address": "654 Boulevard des Tulipes, Quartier Al Qadiri, Oujda",
+    "description": "Comfy island home on Camano Island",
+    "image": "https://ipfs.io/ipfs/QmVXcZQF3XraZEQB1yxrFJt5mHBJhbCMy2ez2Bywd18k6g/25.jpg",
+    "id": "24",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        },
+        {
+            "trait_type": "Engineer",
+            "value": "G.Hooper"
+        },
+        {
+            "trait_type": "logo",
+            "value": "https://ipfs.io/ipfs/QmbM6qmCFpNJUyQDkSMJydMtWEAW47T9aPjBgxb6wcD1Wi"
+        }
+    ]
+}

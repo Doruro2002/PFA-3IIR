@@ -1,0 +1,41 @@
+{
+    "name": "Demeure Lotus",
+    "address": "987 Boulevard des Roses, Quartier Al Wifak, Guelmim",
+    "description": "Comfy island home on Camano Island",
+    "image": "https://ipfs.io/ipfs/QmVXcZQF3XraZEQB1yxrFJt5mHBJhbCMy2ez2Bywd18k6g/16.jpg",
+    "id": "16",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2202
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        },
+        {
+            "trait_type": "Engineer",
+            "value": "C.Culmann"
+        },
+        {
+            "trait_type": "logo",
+            "value": "https://ipfs.io/ipfs/QmWgaHC5T2KV5Cr6YkVJ5WwpiWvXn6Y8CGVqmP6X7du4ZC/nft16.PNG"
+        }
+    ]
+}
